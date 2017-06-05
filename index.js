@@ -1,1 +1,1 @@
-const abc = "Some code string";
+const MagicVariable = "Some code string";
